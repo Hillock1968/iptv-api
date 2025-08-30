@@ -14,3 +14,17 @@ https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output
 https://github.com/wcb1969/iptv/blob/main/%E5%A4%A9%E6%B4%A5%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt
 https://github.com/wcb1969/iptv/blob/main/%E5%A4%A9%E6%B4%A5%E8%81%94%E9%80%9A%E7%BA%BF%E8%B7%AF%E7%9B%B4%E6%92%AD%E6%BA%90%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%90%84%E5%8E%BF%E5%B8%82IPTV%E7%9B%B4%E6%92%AD%E6%BA%90.txt
 https://github.com/wcb1969/iptv/blob/main/%E5%A4%A9%E6%B4%A5%E5%B8%82%E5%AE%9D%E5%9D%BB%E8%81%94%E9%80%9A.txt
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/rtp/%E5%86%85%E8%92%99%E5%8F%A4_%E8%81%94%E9%80%9A.m3u
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/rtp/%E5%8C%97%E4%BA%AC_%E8%81%94%E9%80%9A.m3u
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/rtp/%E5%90%89%E6%9E%97_%E8%81%94%E9%80%9A.m3u
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/rtp/%E5%B1%B1%E4%B8%9C_%E8%81%94%E9%80%9A.m3u
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/rtp/%E5%B9%BF%E4%B8%9C_%E8%81%94%E9%80%9A.m3u
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/rtp/%E6%B2%B3%E5%8C%97_%E8%81%94%E9%80%9A.m3u
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/rtp/%E6%B2%B3%E5%8D%97_%E8%81%94%E9%80%9A.m3u
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/rtp/%E6%B5%99%E6%B1%9F_%E8%81%94%E9%80%9A.m3u
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/rtp/%E6%B9%96%E5%8C%97_%E8%81%94%E9%80%9A.m3u
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/rtp/%E9%87%8D%E5%BA%86_%E8%81%94%E9%80%9A.m3u
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/rtp/%E9%99%95%E8%A5%BF_%E8%81%94%E9%80%9A.m3u
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/rtp/%E9%9D%92%E6%B5%B7_%E8%81%94%E9%80%9A.m3u
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/rtp/%E9%BB%91%E9%BE%99%E6%B1%9F_%E8%81%94%E9%80%9A.m3u
+http://bxtv.3a.ink/live.m3u
