@@ -10,3 +10,7 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://live.hacks.tools/tv/iptv6.txt
 https://live.hacks.tools/tv/iptv4.txt
+https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/rtp/%E5%A4%A9%E6%B4%A5_%E8%81%94%E9%80%9A.m3u
+https://github.com/wcb1969/iptv/blob/main/%E5%A4%A9%E6%B4%A5%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt
+https://github.com/wcb1969/iptv/blob/main/%E5%A4%A9%E6%B4%A5%E8%81%94%E9%80%9A%E7%BA%BF%E8%B7%AF%E7%9B%B4%E6%92%AD%E6%BA%90%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%90%84%E5%8E%BF%E5%B8%82IPTV%E7%9B%B4%E6%92%AD%E6%BA%90.txt
+https://github.com/wcb1969/iptv/blob/main/%E5%A4%A9%E6%B4%A5%E5%B8%82%E5%AE%9D%E5%9D%BB%E8%81%94%E9%80%9A.txt
