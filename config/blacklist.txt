@@ -1,7 +1,7 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
-www.freet,top
+www.freet.top
 http://113.195.172.192:808/hls/114/index.m3u8
 http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
 http://122.152.202.33/s/
