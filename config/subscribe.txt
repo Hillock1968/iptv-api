@@ -40,3 +40,12 @@ https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E5%B9%BF%E4%B8%9
 https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E6%B1%9F%E8%8B%8F%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt
 https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E6%B5%99%E6%B1%9F%E6%9D%AD%E5%B7%9E%E9%98%BF%E9%87%8C%E4%BA%91.txt
 https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E6%B5%B7%E5%8D%97%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt
+https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://live.hacks.tools/tv/iptv6.txt
+https://live.hacks.tools/tv/iptv4.txt
