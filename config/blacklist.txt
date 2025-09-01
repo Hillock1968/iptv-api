@@ -45,3 +45,4 @@ https://stream.hrbtv.net
 https://turkmedya-live.ercdn.net
 rtmp://116.93.98.236/sat/tv721.flv
 rtmp://124.88.144.73:1935/live/jiaoyu
+http://43.138.0.72:35455
