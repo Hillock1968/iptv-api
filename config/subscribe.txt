@@ -58,13 +58,10 @@ https://raw.githubusercontent.com/ouhaibo1980/iptv-api/master/output/result.m3u
 https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/ou.txt
 https://6758.kstore.space/666.txt
 https://raw.githubusercontent.com/sunjiana/iptv-api1/master/output/result.m3u
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/cnTV_AutoUpdate.m3u8
@@ -85,7 +82,6 @@ https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BR
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 http://wx.thego.cn/df.txt
 http://wx.thego.cn/backup.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
 https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
 # https://tv.iill.top/m3u/Gather 不能使用只能直接订阅使用
@@ -102,7 +98,6 @@ https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/CUTV.txt
-https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/refs/heads/main/live.m3u
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live.txt
 https://raw.githubusercontent.com/my-tv1/collect-tv-txt/main/live_lite.m3u
@@ -133,9 +128,7 @@ https://raw.githubusercontent.com/my-tv1/tvauto1/master/live-china.m3u
 https://raw.githubusercontent.com/my-tv1/tvauto1/master/radio.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/ipv6-itv.m3u
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/my-tv1/tvauto2/refs/heads/main/live.m3u
 https://raw.githubusercontent.com/my-tv1/tvauto2/main/live.txt
 https://raw.githubusercontent.com/my-tv1/tvauto2/refs/heads/main/live_lite.m3u
