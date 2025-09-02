@@ -84,3 +84,4 @@ cdn.iptv8k.top
 iptv.diyp.tech
 serv00.bkpcp.top
 api.mytv666.top
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
