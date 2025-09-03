@@ -1,118 +1,69 @@
 📺央视频道,#genre#
-CCTV-1,https://migu.188766.xyz/?migutoken=ed6f184e1b861f6a89de8502255f3ec9&id=CCTV1&pp=1$订阅源
-CCTV-1,https://migu.188766.xyz/?migutoken=ed6f184e1b861f6a89de8502255f3ec9&id=CCTV1&pp=1$订阅源
-CCTV-1,http://n1.gzbody.com:85/rtp/239.77.1.144:5146$广东电信
-CCTV-1,http://n1.gzbody.com:85/rtp/239.77.1.144:5146$广东电信
-CCTV-2,http://n1.gzbody.com:85/rtp/239.77.1.158:5146$广东电信
-CCTV-3,http://n1.gzbody.com:85/rtp/239.77.0.169:5146$广东电信
-CCTV-3,https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv3_1_480P/playlist.m3u8?b=200-1200$订阅源
-CCTV-3,https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv3_1_480P/playlist.m3u8?b=200-1200$订阅源
-CCTV-4,https://migu.188766.xyz/?migutoken=74ffdfbf7119cbe24d0e0d768f62ed60&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy$订阅源
-CCTV-4,http://n1.gzbody.com:85/rtp/239.77.1.163:5146$广东电信
-CCTV-5,http://n1.gzbody.com:85/rtp/239.77.0.170:5146$广东电信
+CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4$订阅源
+CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
-CCTV-5+,https://migu.188766.xyz/?migutoken=f1263da4f54da9daa674a20bd942c443&id=CCTV5p&pp=1$订阅源
-CCTV-5+,http://n1.gzbody.com:85/rtp/239.77.0.87:5146$广东电信
-CCTV-5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8$订阅源
-CCTV-5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8$订阅源
-CCTV-6,https://migu.188766.xyz/?migutoken=6818dd0cb7452ab9cba884dc087f5f3e&id=CCTV6&pp=1$订阅源
-CCTV-6,http://n1.gzbody.com:85/rtp/239.77.0.171:5146$广东电信
+CCTV-5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5$订阅源
+CCTV-5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus$订阅源
 CCTV-6,https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?navigator.userAgent=//cms.cntv.cn/CMS$订阅源
 CCTV-6,https://ldocctvwbcdks.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?navigator.userAgent=//cms.cntv.cn/CMS$订阅源
-CCTV-7,https://migu.188766.xyz/?migutoken=04d99593e1dac859d062d01d7476c596&id=CCTV7&pp=1$订阅源
-CCTV-7,http://n1.gzbody.com:85/rtp/239.77.1.159:5146$广东电信
-CCTV-8,https://migu.188766.xyz/?migutoken=1aa8fd5bfc4684f75811b509f89500a2&id=CCTV8&pp=1$订阅源
-CCTV-8,http://n1.gzbody.com:85/rtp/239.77.0.172:5146$广东电信
-CCTV-9,http://n1.gzbody.com:85/rtp/239.77.1.160:5146$广东电信
-CCTV-10,https://migu.188766.xyz/?migutoken=fe3547efad64b27ac47827c9c4c27e73&id=CCTV10&pp=1$订阅源
-CCTV-10,http://n1.gzbody.com:85/rtp/239.77.1.113:5146$广东电信
-CCTV-11,https://migu.188766.xyz/?migutoken=813f35673c424576a28fa434893eea51&id=CCTV11&pp=1$订阅源
-CCTV-11,http://n1.gzbody.com:85/rtp/239.77.1.238:5146$广东电信
-CCTV-12,https://migu.188766.xyz/?migutoken=081e492d91f322784e7a210a96fafc93&id=CCTV12&pp=1$订阅源
-CCTV-12,http://n1.gzbody.com:85/rtp/239.77.1.109:5146$广东电信
+CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6$订阅源
+CCTV-7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7$订阅源
+CCTV-8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd$订阅源
+CCTV-9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd$订阅源
+CCTV-10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd$订阅源
+CCTV-11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11$订阅源
+CCTV-12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12$订阅源
+CCTV-12,http://13937899.xyz:35455/gaoma/cctv12.m3u8$订阅源
 CCTV-12,http://13937899.xyz:35455/gaoma/cctv12.m3u8$订阅源
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
-CCTV-13,http://n1.gzbody.com:85/rtp/239.77.0.188:5146$广东电信
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
-CCTV-14,https://migu.188766.xyz/?migutoken=749a91fe3940c218577e478c2676225c&id=CCTV14&pp=1$订阅源
+CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
+CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源
-CCTV-14,http://n1.gzbody.com:85/rtp/239.77.1.161:5146$广东电信
-CCTV-15,https://migu.188766.xyz/?migutoken=d4ec6b81ea5e0013c86278735137dcca&id=CCTV15&pp=1$订阅源
-CCTV-15,http://n1.gzbody.com:85/rtp/239.77.1.239:5146$广东电信
-CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1$订阅源
-CCTV-16,http://n1.gzbody.com:85/rtp/239.77.0.165:5146$广东电信
+CCTV-14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14$订阅源
+CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
 CCTV-16,http://13937899.xyz:35455/gaoma/cctv16.m3u8$订阅源
-CCTV-17,http://n1.gzbody.com:85/rtp/239.77.1.121:5146$广东电信
-CETV-1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy$订阅源
-CETV-2,https://migu.188766.xyz/?migutoken=98daa3ba4c81372351b73d9075023b9b&id=CETV2&type=yy$订阅源
-CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy$订阅源
 
 💰央视付费频道,#genre#
-怀旧剧场,https://cc06.tv12.xyz/52.m3u8$订阅源
-怀旧剧场,https://cc06.tv12.xyz/52.m3u8$订阅源
+女性时尚,https://cc06.tv12.xyz/95.m3u8$订阅源
 女性时尚,https://cc06.tv12.xyz/95.m3u8$订阅源
 电视指南,https://cc06.tv12.xyz/39.m3u8$订阅源
 
 📡卫视频道,#genre#
-天津卫视,http://n1.gzbody.com:85/rtp/239.77.0.131:5146$广东电信
-湖南卫视,https://migu.188766.xyz/?migutoken=ec26188e91410ebeb44f54597d4eb02f&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&pp=1$订阅源
-湖南卫视,http://n1.gzbody.com:85/rtp/239.77.1.5:5146$广东电信
-浙江卫视,http://n1.gzbody.com:85/rtp/239.77.1.33:5146$广东电信
+湖南卫视,https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn$订阅源
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
-北京卫视,http://n1.gzbody.com:85/rtp/239.77.1.151:5146$广东电信
-东方卫视,https://migu.188766.xyz/?migutoken=c1344bb1a57b2f4d3efc45228c28130b&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&pp=1$订阅源
-东方卫视,http://n1.gzbody.com:85/rtp/239.77.1.218:5146$广东电信
-香港卫视,https://migu.188766.xyz/?migutoken=199241d2249c4f1cb22e4f470bfae1d3&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1$订阅源
-湖北卫视,https://migu.188766.xyz/?migutoken=9157c8aa7a594b5e3a23675f8f75f55b&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1$订阅源
-湖北卫视,http://n1.gzbody.com:85/rtp/239.77.0.128:5146$广东电信
-黑龙江卫视,http://n1.gzbody.com:85/rtp/239.77.0.124:5146$广东电信
+浙江卫视,https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn$订阅源
+北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing$订阅源
+东方卫视,https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn$订阅源
+广东卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn$订阅源
+湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei$订阅源
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
-安徽卫视,http://n1.gzbody.com:85/rtp/239.77.1.92:5146$广东电信
-重庆卫视,http://n1.gzbody.com:85/rtp/239.77.1.162:5146$广东电信
-东南卫视,http://n1.gzbody.com:85/rtp/239.77.1.104:5146$广东电信
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
-甘肃卫视,http://n1.gzbody.com:85/rtp/239.77.0.189:5146$广东电信
+东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
-广西卫视,http://n1.gzbody.com:85/rtp/239.253.43.36:5146$广东电信
-贵州卫视,http://n1.gzbody.com:85/rtp/239.77.1.221:5146$广东电信
-河北卫视,http://n1.gzbody.com:85/rtp/239.77.1.214:5146$广东电信
+广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi$订阅源
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
-河南卫视,https://migu.188766.xyz/?migutoken=16f5c17a7360703f592e18810bffcf27&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy$订阅源
-河南卫视,http://n1.gzbody.com:85/rtp/239.77.1.229:5146$广东电信
-吉林卫视,http://n1.gzbody.com:85/rtp/239.77.1.111:5146$广东电信
-江苏卫视,https://migu.188766.xyz/?migutoken=6e76c6dc610df9add9f2e0ae4cfbc347&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy$订阅源
-江苏卫视,http://n1.gzbody.com:85/rtp/239.77.1.18:5146$广东电信
-江西卫视,https://migu.188766.xyz/?migutoken=ec5db662362dfc44c29d19ebabd3b6f7&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1$订阅源
-江西卫视,http://n1.gzbody.com:85/rtp/239.77.1.219:5146$广东电信
-辽宁卫视,http://n1.gzbody.com:85/rtp/239.77.1.103:5146$广东电信
-青海卫视,http://n1.gzbody.com:85/rtp/239.253.43.125:5146$广东电信
-山东卫视,http://n1.gzbody.com:85/rtp/239.77.1.142:5146$广东电信
+江苏卫视,https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
-陕西卫视,https://migu.188766.xyz/?migutoken=6c1651f4bfb19ef3318df9940f5030f0&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1$订阅源
-四川卫视,http://n1.gzbody.com:85/rtp/239.77.1.215:5146$广东电信
-深圳卫视,http://n1.gzbody.com:85/rtp/239.77.0.130:5146$广东电信
-三沙卫视,http://n1.gzbody.com:85/rtp/239.253.43.113:5146$订阅源
-云南卫视,http://n1.gzbody.com:85/rtp/239.253.43.37:5146$广东电信
+四川卫视,https://smart.pendy.dpdns.org/Smart.php?id=sichuan_twn$订阅源
+深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen$订阅源
 
 ☘️天津频道,#genre#
-天津卫视,http://n1.gzbody.com:85/rtp/239.77.0.131:5146$广东电信
 
 ☘️湖南频道,#genre#
 长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8$订阅源
@@ -130,56 +81,46 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8$订阅源
 
 ☘️广东频道,#genre#
-广东珠江,http://n1.gzbody.com:85/rtp/239.77.0.114:5146$订阅源
-广东体育,http://n1.gzbody.com:85/rtp/239.77.0.168:5146$订阅源
-广东新闻,http://n1.gzbody.com:85/rtp/239.77.0.173:5146$订阅源
-广东民生,http://n1.gzbody.com:85/rtp/239.77.0.225:5146$订阅源
-大湾区卫视,https://migu.188766.xyz/?migutoken=6c356744e9403596c5ab81e008478704&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy$订阅源
-广州综合,http://n1.gzbody.com:85/rtp/239.253.43.71:5146$订阅源
-广州影视,http://n1.gzbody.com:85/rtp/239.253.43.73:5146$订阅源
-江门综合,http://n1.gzbody.com:85/rtp/239.77.0.201:5146$订阅源
-江门侨乡生活,http://n1.gzbody.com:85/rtp/239.77.0.202:5146$订阅源
-佛山综合,http://n1.gzbody.com:85/rtp/239.253.43.57:5146$订阅源
-深圳卫视,http://n1.gzbody.com:85/rtp/239.77.0.130:5146$广东电信
-汕头综合,http://n1.gzbody.com:85/rtp/239.77.1.130:5146$订阅源
-茂名综合,http://n1.gzbody.com:85/rtp/239.77.0.206:5146$订阅源
+广东珠江,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang$订阅源
+广东卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn$订阅源
+深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen$订阅源
 
 ☘️浙江频道,#genre#
 浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8$订阅源
-浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed$订阅源
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源
+浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed$订阅源
 浙江钱江台,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源
 浙江钱江台,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8$订阅源
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
 浙江生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$订阅源
 浙江生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8$订阅源
 浙江生活,http://ls.qingting.fm/live/1099.m3u8$订阅源
-浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
 浙江经济生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$订阅源
 浙江经济生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8$订阅源
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8$订阅源
-浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8$订阅源
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
+浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8$订阅源
 浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8$订阅源
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8$订阅源
 浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8$订阅源
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8$订阅源
-浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
-浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
+浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
-之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8$订阅源
+浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8$订阅源
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8$订阅源
+之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8$订阅源
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8$订阅源
 浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8$订阅源
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8$订阅源
-浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8$订阅源
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
+浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8$订阅源
 浙江留学,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
 浙江留学,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8$订阅源
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
@@ -228,8 +169,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl$订阅源
 余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8$订阅源
-中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
 中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
+中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8$订阅源
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8$订阅源
 
@@ -239,15 +180,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"$订阅源
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"$订阅源
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd$订阅源
-江宁新闻,https://migu.188766.xyz/?migutoken=77969fb082a75b798578427f3570edd2&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy$订阅源
-江苏体育,https://migu.188766.xyz/?migutoken=77969fb082a75b798578427f3570edd2&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy$订阅源
-江苏影视,https://migu.188766.xyz/?migutoken=91756b74eb13850e4c87b15c25817e42&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy$订阅源
-江苏教育,https://migu.188766.xyz/?migutoken=bfd96895aa8e3e9aa47561510518c058&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy$订阅源
-淮阴综合,http://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8$订阅源
-淮阴综合,http://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8$订阅源
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8$订阅源
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8$订阅源
-连云港新闻综合,https://migu.188766.xyz/?migutoken=1b0d5ada0a7a68f9bc0ad66f4464a69d&id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy$订阅源
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8$订阅源
 
 ☘️辽宁频道,#genre#
@@ -260,13 +194,12 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8$订阅源
 
 ☘️广西频道,#genre#
-南宁新闻综合,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d$订阅源
-南宁新闻综合,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d$订阅源
-南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d$订阅源
+南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8$订阅源
+南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8$订阅源
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8$订阅源
+广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=$订阅源
+广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=$订阅源
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8$订阅源
-广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=$订阅源
-广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=$订阅源
 
 ☘️四川频道,#genre#
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd$订阅源
@@ -274,18 +207,15 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 旺苍新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw$订阅源
-汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd$订阅源
-汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd$订阅源
-汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd$订阅源
-汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd$订阅源
-沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd$订阅源
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8$订阅源
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8$订阅源
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8$订阅源
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8$订阅源
-荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd$订阅源
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8$订阅源
+营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8$订阅源
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8$订阅源
 青神综合,http://lmt.scqstv.com:80/live1/live1.m3u8$订阅源
 青神综合,http://lmt.scqstv.com:80/live1/live1.m3u8$订阅源
@@ -312,10 +242,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8$订阅源
 
 ☘️河北频道,#genre#
-鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd$订阅源
-鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd$订阅源
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd$订阅源
-邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd$订阅源
 邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8$订阅源
 邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd#https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8$订阅源
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8$订阅源
@@ -326,10 +253,10 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 河北都市,https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8#http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af$订阅源
 河北都市,http://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8$订阅源
 河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8$订阅源
-河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd$订阅源
 河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd#http://hbfc.chinashadt.com:2036/live/1003.stream/playlist.m3u8#http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38$订阅源
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8$订阅源
 河北农民,http://ls.qingting.fm/live/1650.m3u8$订阅源
+河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd$订阅源
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8$订阅源
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8$订阅源
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8$订阅源
@@ -354,24 +281,23 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 山东生活,http://ls.qingting.fm/live/60260.m3u8$订阅源
 
 ☘️山西频道,#genre#
-五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd$订阅源
-五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd$订阅源
 古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd$订阅源
 古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd$订阅源
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd$订阅源
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd$订阅源
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd$订阅源
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd$订阅源
-怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd$订阅源
-怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd$订阅源
 怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8$订阅源
 怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8$订阅源
-武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd$订阅源
-武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd$订阅源
+怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd$订阅源
+怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd$订阅源
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd$订阅源
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd$订阅源
 祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd$订阅源
 祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd$订阅源
+长子综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd$订阅源
+长子综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd$订阅源
+阳曲综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd$订阅源
 
 ☘️安徽频道,#genre#
 黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd$订阅源
@@ -382,7 +308,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 宿州科教,rtmp://live.ahsz.tv/video/s10001-kxjy$订阅源
 宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8?zanhd$订阅源
 宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8?zanhd$订阅源
-宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd$订阅源
 六安新闻综合,http://ls.qingting.fm/live/267.m3u8$订阅源
 六安公共,http://ls.qingting.fm/live/1794199.m3u8$订阅源
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd$订阅源
@@ -398,14 +323,14 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 内蒙古经济生活,https://ls.qingting.fm/live/1885/64k.m3u8$订阅源
 
 ☘️云南频道,#genre#
+文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund$订阅源
+文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund$订阅源
 文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund$订阅源
 砚山电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8?zyund$订阅源
 麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund$订阅源
 
 ☘️青海频道,#genre#
 安多卫视,rtmp://liveout.xntv.tv/a65jur/96iln2$订阅源
-安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8#https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$订阅源
-安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8#https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$订阅源
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8#@http://cm-wshls.homecdn.com/live/5a296.dlv#@http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8#@http://cm-wshls.homecdn.com/live/5a296.m3u8#rtmp://liveout.xntv.tv/a65jur/96iln2$订阅源
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8$订阅源
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8$订阅源
@@ -418,51 +343,56 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 🌊港•澳•台,#genre#
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
-翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8$订阅源
-翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8$订阅源
-翡翠台,http://r.jdshipin.com/GeWKr?id=fct406$订阅源
-翡翠台,http://r.jdshipin.com/GeWKr?id=fct406$订阅源
+翡翠台,http://r.jdshipin.com/GeWKr?id=fct720$订阅源
+翡翠台,http://r.jdshipin.com/GeWKr?id=fct720$订阅源
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt$订阅源
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720$订阅源
-凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8$订阅源
 凤凰中文,http://r.jdshipin.com/cCCzW$LR•IPV4『线路10』
-凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8$订阅源
+凤凰中文,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd$订阅源
+凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd$订阅源
 凤凰香港,https://cdn3.163189.xyz/live/fhxg/stream.m3u8$订阅源
-凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8$订阅源
 凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
-凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8$订阅源
+凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn$订阅源
+凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-香港卫视,https://migu.188766.xyz/?migutoken=199241d2249c4f1cb22e4f470bfae1d3&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1$订阅源
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport$订阅源
+纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
+东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe$订阅源
+东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper$订阅源
+东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie$订阅源
 
 🎬电影频道,#genre#
-CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt$订阅源
-CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt$订阅源
-CHC动作电影,https://migu.188766.xyz/?migutoken=5f7ddbc144aaa6a046ced38913096c20&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1$订阅源
-CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$订阅源
-天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy$订阅源
+纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie$订阅源
+东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie$订阅源
+东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper$订阅源
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-CCTV-5,http://n1.gzbody.com:85/rtp/239.77.0.170:5146$广东电信
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
-CCTV-5+,https://migu.188766.xyz/?migutoken=f1263da4f54da9daa674a20bd942c443&id=CCTV5p&pp=1$订阅源
-CCTV-5+,http://n1.gzbody.com:85/rtp/239.77.0.87:5146$广东电信
-CCTV-5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8$订阅源
-广东体育,http://n1.gzbody.com:85/rtp/239.77.0.168:5146$订阅源
+CCTV-5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5$订阅源
+CCTV-5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus$订阅源
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport$订阅源
 五星体育,https://cdn3.163189.xyz/163189/wxty$订阅源
-江苏体育,https://migu.188766.xyz/?migutoken=77969fb082a75b798578427f3570edd2&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy$订阅源
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8$订阅源
 
 🏛经典剧场,#genre#
+笑傲江湖,https://www.goodiptv.club/yy/1352833750$订阅源
+笑傲江湖,https://www.goodiptv.club/yy/1352833750$订阅源
+天龙八部,https://www.goodiptv.club/yy/1351814644$订阅源
 天龙八部,http://www.clmy.cc:35455/yy/1355067965$订阅源
 天龙八部,http://www.clmy.cc:35455/yy/1355067965$订阅源
+三国演义,https://www.goodiptv.club/yy/32788000$订阅源
 水浒传,http://www.clmy.cc:35455/yy/1353873252$订阅源
+新白娘子传奇,https://www.goodiptv.club/yy/1354490667$订阅源
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667$订阅源
+济公游记,https://www.goodiptv.club/yy/1355265814$订阅源
+封神榜,https://www.goodiptv.club/yy/1382797534$订阅源
 封神榜,http://www.clmy.cc:35455/yy/1353426319$订阅源
+上海滩,https://www.goodiptv.club/yy/1382745184$订阅源
 
 🕘️更新时间,#genre#
-2025-09-01 19:14:38,https://migu.188766.xyz/?migutoken=ed6f184e1b861f6a89de8502255f3ec9&id=CCTV1&pp=1$订阅源
+2025-09-03 19:06:41,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4$订阅源
