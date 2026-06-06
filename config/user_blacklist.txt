@@ -6,7 +6,9 @@ https://mgtv.ottiptv.cc/migu/
 https://mursor.ottiptv.cc
 http://free.cnlive.club/channel/
 https://smart.pendy.dpdns.org
-#
+
+https://iptv.catvod.com
+
 http://106.53.99.30/tv/
 epg.pw
 skype.serv00.net
