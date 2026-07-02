@@ -1,69 +1,35 @@
 央视频道,#genre#
-CCTV-1,https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=5559462299&sign=9f838d2b7dfbe170d7f5349c41ab891816b7031e5597e42bb326fbf48dbc2392de7e46221e221d6c7018b96669ac1dbdc0fc0c26cd34b48f2166b77f1450f6ac856c5114c4604a5d77663fdc51&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-CCTV-2,https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=5559462299&sign=84b340c32ad78dbc6e3fd16cb6c1dd393ef2f572296dc7c91587599b2e35423d3ec04b966a482ff9078d007cc3d3b965e4d4f26243c311f6a454e224692ba216c4ba04245bcc0516f3c7c08389&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-CCTV-3,https://live.ottiptv.cc/mcp/cctv3.m3u8?userid=5559462299&sign=c1775a06415d046d518bedb6b1d4f0082caeab73afe738bcfd90f6012c30d40317156b3669d509f89ae3a15829f5245d8bfbdac4e424150e8cb2b04a792de1a854537b74bb2aa3dd0af6e81981&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-CCTV-4,https://live.ottiptv.cc/mcp/cctv4.m3u8?userid=5559462299&sign=2ce71a916c3e601fa282e7dd88e753b48abc339a349823cb854c305a69b4aa7176e7c8378b591fd88da1c530b5676be76b0029e0ff5aec3bbf28df0c3880909cdf49f6b375e6e2da2494c1ad99&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
-CCTV-5,https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=5559462299&sign=4637dcd03b9b95f920898a418d0a1a14dd7146d61d81890f2e062bb61b2516c7302f7835441735ed227df4c9e251b282e4f95c43777bbc17126d91ae59f3d313a1deaea8677fc42f659dfe8c22ed&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-CCTV-6,https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=5559462299&sign=c83da64a4afab8742707e0f6b8ac4b8641b4db06e5b96d7f65f5674de9e5949c161a3cfaf2fdf106284be4e4e0372823086365e60515b9401daca2c2e33859a58c14bb3aa206f6d6d930397c8b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-CCTV-7,https://live.ottiptv.cc/mcp/cctv7.m3u8?userid=5559462299&sign=1661bd0d1ae5171dbcc9c43baef8a1a0bffcbdc054189928541d37648980632f5af5b5f1e871ffaa1ec246ad4a6d9bff544ed7c8f4c2b8ba7d8858d8fbef0e34cc974bf08454b8b6d4f5c19027&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-CCTV-8,https://live.ottiptv.cc/mcp/cctv8.m3u8?userid=5559462299&sign=8f4d5847ed6a473c6ac1ccbee1b746df836d4aa7cdb2c2847226d9d9935334721901cd8d73696c540c681e008632c5e67306cee5bfae43c6204e5810a35906041f53fc416732776299e3191798&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-CCTV-9,https://live.ottiptv.cc/mcp/cctv9.m3u8?userid=5559462299&sign=87f8e948dbba190dcf666e44fd339d885644ada1350bb1f9550d17f0976f881cf0c7216cd2401f817c88bb147b98ee7147558799b9e104a14bc365549d4113ea7351369e8c2db3197cd01cd6d2&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-CCTV-11,https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=5559462299&sign=88f62f6e3221789cb03913d47e7bd44e0f4658aed00f7a5288f8bfb958365bcc1104a6ac308e3a27c51191cfc3db61e54b095fe4f9dee511ef0ce7b2b45972c01c8b3f0b5fe8aa44c75235978cbe&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-CCTV-12,https://live.ottiptv.cc/mcp/cctv12.m3u8?userid=5559462299&sign=d9d01cad6906c11d77701f26a65422e640073ceba8f63428971485c16a06de82b61c951aabe307c438102712977145e34cfb0853c349cb8e8f08abd9039f8a5ac0dc975934ec01585d4682b54d57&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-CCTV-13,https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=5559462299&sign=b62687f3ea766ba32fa28b48af9e4c0bb49825774912300abfeec948992c9a00fcda6012ea7ab86993ea0a92b80b8d4e662fda35a6f89af7edf399ae6640afd64c40bdfd715324c5931a9e564173&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-CCTV-14,https://live.ottiptv.cc/mcp/cctv14.m3u8?userid=5559462299&sign=fb6058119644f9d969b22a5986241787ba8a46d712d719ff5348359076868a2067ce007e96f25cce8273313fe9a20b99146407c407a6ae0167237b10f2fb6a3a804d1e8e0b119e307b3e861e7a83&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-CCTV-15,https://live.ottiptv.cc/mcp/cctv15.m3u8?userid=5559462299&sign=9ddc821d117a79ac2f20093652951e0b3a450369f75a52f7567c8e81b0ab19fb05fa135c307ea7a59ce01f205a5be4c16ec3f0bc6f4549963c32cdec28e3bd3a0252cded7805524209e8a99e9153&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-CCTV-16,https://live.ottiptv.cc/mcp/cctv16.m3u8?userid=5559462299&sign=4a3b125b3137610d468b8c276f9cc9743529a9419123005397ff18461849af5875734117b9234d4deaa7a27c638ed04968dfa69a71a3eca02435f86a9a2137b1689e618fd33b5d5b90ec36dae82e&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
-CCTV-17,https://live.ottiptv.cc/mcp/cctv17.m3u8?userid=5559462299&sign=050ed8f8848996743e4a0efb15dd8ab03ed65880fccb3790115649bc9264c5bae321751b934ebefe6ac72eea1340c57c540070e029a44f53a6d5fe7b35d66a2750aeb22de3c120188f132a1e1f8c&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
 
 央视付费频道,#genre#
-CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv$订阅源
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd$订阅源
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd$订阅源
-重温经典,http://cdn6.163189.xyz/163189/cwjd$订阅源
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8$订阅源
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8$订阅源
+CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.php$订阅源
 重温经典,http://api.kkhk.itv888.vip:8080/streams/50f74c763e0/index.m3u8$订阅源
 重温经典,http://api.kkhk.itv888.vip:8080/streams/214856d804c/index.m3u8$订阅源
-老故事,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd$订阅源
-老故事,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd$订阅源
-老故事,http://cdn6.163189.xyz/163189/cwjd$订阅源
 老故事,http://api.kkhk.itv888.vip:8080/streams/50f74c763e0/index.m3u8$订阅源
 老故事,http://api.kkhk.itv888.vip:8080/streams/214856d804c/index.m3u8$订阅源
-金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8$订阅源
-金鹰纪实,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8$订阅源
-金鹰纪实,https://hls-gateway.vpstv.net/streams/708834.m3u8$订阅源
 
 卫视频道,#genre#
-广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520$订阅源
+甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi.php$订阅源
+甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-3.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
-江西卫视,http://php.jdshipin.com:8880/jxtv2.php?id=1$LR•IPV4『线路3』
-深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068$订阅源
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws$订阅源
-西藏卫视,http://php.jdshipin.com/xztv.php?id=ws$订阅源
+贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-5.m3u8$订阅源
+山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8$订阅源
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-4.php$订阅源
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-10.php$订阅源
+西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-1.m3u8$订阅源
+云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-2.m3u8$订阅源
 
 天津频道,#genre#
 
 港·澳·台,#genre#
-凤凰中文,http://r.jdshipin.com/cCCzW$订阅源
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$LR•IPV4『线路3』
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$订阅源
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
-凤凰资讯,http://r.jdshipin.com/0Rp07$订阅源
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx$订阅源
+凤凰资讯,http://r.jdshipin.com/0Rp07$订阅源
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$LR•IPV4『线路2』
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$订阅源
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$订阅源
-凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
-凤凰香港,http://r.jdshipin.com/NfC0f$订阅源
-凤凰香港,https://cdn6.163189.xyz/163189/fhhk$订阅源
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$订阅源
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$LR•IPV4『线路1』
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2$订阅源
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 
 🕘️更新时间,#genre#
-2026-06-06 20:56:57,https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=5559462299&sign=9f838d2b7dfbe170d7f5349c41ab891816b7031e5597e42bb326fbf48dbc2392de7e46221e221d6c7018b96669ac1dbdc0fc0c26cd34b48f2166b77f1450f6ac856c5114c4604a5d77663fdc51&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8$订阅源
+2026-07-02 20:12:53,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源

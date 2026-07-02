@@ -1,414 +1,174 @@
-🕘️更新时间,#genre#
-2026-04-11 21:22:08,rtp://238.1.78.166:7200
-
 📺央视频道,#genre#
-CCTV-1,rtp://238.1.78.166:7200
-CCTV-1,rtp://228.0.0.1:6108
-CCTV-1,rtp://239.93.0.184:5140
-CCTV-1,rtp://239.77.0.86:5146
-CCTV-1,rtp://239.49.8.129:6000
-CCTV-1,rtp://225.1.4.73:1102
-CCTV-1,rtp://233.50.201.222:5140
-CCTV-1,rtp://225.1.1.120:5002
-CCTV-2,rtp://225.1.8.2:8084
-CCTV-2,rtp://239.76.253.152:9000
-CCTV-2,rtp://239.120.2.43:5141
-CCTV-2,rtp://239.93.1.23:6000
-CCTV-2,rtp://239.253.43.17:5146
-CCTV-2,rtp://239.49.8.130:6000
-CCTV-2,rtp://225.1.4.74:1103
-CCTV-2,rtp://233.50.201.119:5140
-CCTV-3,rtp://238.1.78.170:7232
-CCTV-3,rtp://228.0.0.156:7156
-CCTV-3,rtp://225.1.8.88:8000
-CCTV-3,rtp://239.76.253.153:9000
-CCTV-3,rtp://239.120.2.32:5141
-CCTV-3,rtp://239.200.200.71:8012
-CCTV-3,rtp://239.29.1.133:5000
-CCTV-3,rtp://239.125.2.52:4120
-CCTV-4,rtp://239.37.0.022:5540
-CCTV-4,rtp://225.1.8.4:8092
-CCTV-4,rtp://239.76.253.154:9000
-CCTV-4,rtp://239.120.2.33:5141
-CCTV-4,rtp://239.93.1.105:5140
-CCTV-4,rtp://239.77.0.78:5146
-CCTV-4,rtp://239.0.1.180:6040
-CCTV-4,rtp://239.49.8.131:6000
-CCTV-5,rtp://239.93.42.37:5140
-CCTV-5,rtp://239.77.0.170:5146
-CCTV-5,rtp://239.49.9.32:6000
-CCTV-5,rtp://239.254.201.153:7206
-CCTV-5,rtp://225.1.4.159:1195
-CCTV-5,rtp://233.50.201.197:5140
-CCTV-5,rtp://225.1.8.89:8000
-CCTV-5,rtp://239.76.253.155:9000
-CCTV-5+,rtp://239.120.2.59:5141
-CCTV-5+,rtp://239.77.1.147:5146
-CCTV-5+,rtp://239.20.0.203:2204
-CCTV-5+,rtp://239.49.8.137:6000
-CCTV-5+,rtp://239.254.200.46:8004
-CCTV-5+,rtp://233.50.201.220:5140
-CCTV-5+,rtp://239.200.200.9:8004
-CCTV-5+,rtp://239.29.1.10:5001
-CCTV-6,rtp://239.200.200.21:9020
-CCTV-6,rtp://239.29.1.135:5000
-CCTV-6,rtp://239.125.2.56:4120
-CCTV-6,rtp://225.1.8.90:8000
-CCTV-6,rtp://239.37.0.233:5540
-CCTV-6,rtp://239.253.142.117:3000
-CCTV-6,rtp://239.5.1.103:5000
-CCTV-6,rtp://239.21.1.6:5002
-CCTV-7,rtp://238.1.78.239:7784
-CCTV-7,rtp://228.0.0.7:6108
-CCTV-7,rtp://239.253.92.194:6059
-CCTV-7,rtp://232.0.0.136:1234
-CCTV-7,rtp://239.93.1.67:5140
-CCTV-7,rtp://239.77.1.167:5146
-CCTV-7,rtp://239.49.8.132:6000
-CCTV-7,rtp://225.1.4.76:1105
-CCTV-8,rtp://239.93.42.39:5140
-CCTV-8,rtp://239.77.0.172:5146
-CCTV-8,rtp://239.49.9.34:6000
-CCTV-8,rtp://239.254.201.155:7208
-CCTV-8,rtp://225.1.4.161:1197
-CCTV-8,rtp://233.50.201.199:5140
-CCTV-8,rtp://239.45.1.71:5140
-CCTV-8,rtp://238.1.78.173:7256
-CCTV-9,rtp://239.37.0.122:5540
-CCTV-9,rtp://238.1.78.240:7792
-CCTV-9,rtp://228.0.0.9:6108
-CCTV-9,rtp://239.93.1.24:5140
-CCTV-9,rtp://239.77.1.168:5146
-CCTV-9,rtp://239.49.8.133:6000
-CCTV-9,rtp://225.1.4.77:1106
-CCTV-9,rtp://233.50.201.121:5140
-CCTV-10,rtp://239.45.3.8:5140
-CCTV-10,rtp://225.1.4.10:1039
-CCTV-10,rtp://239.200.200.107:8116
-CCTV-10,rtp://239.29.0.119:5000
-CCTV-10,rtp://239.125.1.143:4130
-CCTV-10,rtp://225.1.8.110:8228
-CCTV-10,rtp://239.37.0.007:5540
-CCTV-10,rtp://239.253.142.204:3000
-CCTV-11,rtp://225.1.8.73:8120
-CCTV-11,rtp://239.76.245.251:1234
-CCTV-11,rtp://239.120.2.100:5141
-CCTV-11,rtp://238.1.78.206:7502
-CCTV-11,rtp://228.0.0.242:6108
-CCTV-11,rtp://239.45.1.196:5140
-CCTV-11,rtp://225.1.4.11:1040
-CCTV-11,rtp://239.37.0.026:5540
-CCTV-12,rtp://239.45.3.10:5140
-CCTV-12,rtp://225.1.4.12:1041
-CCTV-12,rtp://239.200.200.27:8232
-CCTV-12,rtp://239.29.0.120:5000
-CCTV-12,rtp://239.125.1.161:4130
-CCTV-12,rtp://225.1.8.112:8232
-CCTV-12,rtp://239.37.0.006:5540
-CCTV-12,rtp://239.253.142.205:3000
-CCTV-13,rtp://239.37.0.028:5540
-CCTV-13,rtp://239.200.200.4:8484
-CCTV-13,rtp://239.29.1.123:5000
-CCTV-13,rtp://239.125.1.53:4120
-CCTV-13,rtp://225.1.1.10:8128
-CCTV-13,rtp://239.253.142.253:3000
-CCTV-13,rtp://239.5.1.138:5000
-CCTV-13,rtp://239.21.2.3:5002
-CCTV-14,rtp://235.254.198.10:1316
-CCTV-14,rtp://239.45.3.23:5140
-CCTV-14,rtp://225.1.4.14:1043
-CCTV-14,rtp://239.200.200.28:8236
-CCTV-14,rtp://239.29.0.121:5000
-CCTV-14,rtp://239.125.1.162:4130
-CCTV-14,rtp://225.1.8.114:8236
-CCTV-14,rtp://239.37.0.005:5540
-CCTV-15,rtp://239.200.201.112:8496
-CCTV-15,rtp://239.29.0.206:5000
-CCTV-15,rtp://239.125.1.163:4130
-CCTV-15,rtp://225.1.8.115:8052
-CCTV-15,rtp://239.253.142.88:3000
-CCTV-15,rtp://239.5.1.139:5000
-CCTV-15,rtp://239.21.1.16:5002
-CCTV-15,rtp://239.253.254.170:8000
-CCTV-16,rtp://239.200.200.193:8776
-CCTV-16,rtp://239.29.1.146:5000
-CCTV-16,rtp://239.125.2.206:4120
-CCTV-16,rtp://239.253.142.248:3000
-CCTV-16,rtp://239.253.142.249:3000
-CCTV-16,rtp://238.125.5.34:5140
-CCTV-16,rtp://225.1.5.46:1356
-CCTV-16,rtp://233.50.201.192:5140
-CCTV-17,rtp://239.200.201.128:8504
-CCTV-17,rtp://239.29.1.145:5000
-CCTV-17,rtp://239.125.2.204:4120
-CCTV-17,rtp://225.1.8.117:8064
-CCTV-17,rtp://239.37.0.002:5540
-CCTV-17,rtp://239.253.142.202:3000
-CCTV-17,rtp://239.5.1.140:5000
-CCTV-17,rtp://239.21.1.206:5002
+CCTV-1,http://69.30.245.50/live/cctv1.m3u8
+CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
+CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-5,http://69.30.245.50/live/cctv5.m3u8
+CCTV-6,http://69.30.245.50/live/cctv6.m3u8
+CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
+CGTN CN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 
 📡卫视频道,#genre#
-广东卫视,rtp://239.45.3.230:5140
-广东卫视,rtp://239.200.200.52:8276
-广东卫视,rtp://239.29.0.123:5000
-广东卫视,rtp://239.125.1.154:4130
-广东卫视,rtp://225.1.8.151:8132
-广东卫视,rtp://239.37.0.033:5540
-广东卫视,rtp://239.253.142.164:3000
-广东卫视,rtp://239.5.1.18:5000
-浙江卫视,rtp://239.45.3.178:5140
-浙江卫视,rtp://239.200.200.35:8204
-浙江卫视,rtp://239.29.0.96:5000
-浙江卫视,rtp://239.125.1.159:4130
-浙江卫视,rtp://225.1.8.133:8284
-浙江卫视,rtp://239.37.0.037:5540
-浙江卫视,rtp://239.253.142.125:3000
-浙江卫视,rtp://239.5.1.14:5000
-湖南卫视,rtp://239.45.3.228:5140
-湖南卫视,rtp://239.200.200.6:8012
-湖南卫视,rtp://239.29.0.90:5000
-湖南卫视,rtp://239.125.1.170:4130
-湖南卫视,rtp://225.1.8.132:8064
-湖南卫视,rtp://239.37.0.038:5540
-湖南卫视,rtp://239.253.142.162:3000
-湖南卫视,rtp://239.5.1.16:5000
-北京卫视,rtp://239.45.3.229:5140
-北京卫视,rtp://239.200.200.5:8024
-北京卫视,rtp://239.29.0.108:5000
-北京卫视,rtp://239.125.1.176:4130
-北京卫视,rtp://225.1.8.21:8002
-北京卫视,rtp://239.37.0.050:5540
-北京卫视,rtp://239.253.142.161:3000
-北京卫视,rtp://239.253.142.47:3000
-湖北卫视,rtp://239.45.3.239:5140
-湖北卫视,rtp://239.200.200.68:8772
-湖北卫视,rtp://239.29.0.107:5000
-湖北卫视,rtp://239.125.1.152:4130
-湖北卫视,rtp://225.1.8.146:8136
-湖北卫视,rtp://239.37.0.040:5540
-湖北卫视,rtp://239.253.142.168:3000
-湖北卫视,rtp://239.5.1.20:5000
-黑龙江卫视,rtp://239.45.3.232:5140
-黑龙江卫视,rtp://239.200.200.66:8016
-黑龙江卫视,rtp://239.29.0.91:5000
-黑龙江卫视,rtp://239.125.1.171:4130
-黑龙江卫视,rtp://225.1.8.141:8196
-黑龙江卫视,rtp://239.37.0.032:5540
-黑龙江卫视,rtp://239.253.142.165:3000
-黑龙江卫视,rtp://239.5.1.17:5000
-安徽卫视,rtp://239.45.1.120:5140
-安徽卫视,rtp://239.200.200.37:8212
-安徽卫视,rtp://239.29.0.81:5000
-安徽卫视,rtp://239.125.1.173:4130
-安徽卫视,rtp://225.1.8.135:8272
-安徽卫视,rtp://239.37.0.046:5540
-安徽卫视,rtp://239.253.142.131:3000
-安徽卫视,rtp://239.5.1.26:5000
-重庆卫视,rtp://239.45.1.84:5140
-重庆卫视,rtp://239.200.200.49:8264
-重庆卫视,rtp://239.29.0.99:5000
-重庆卫视,rtp://239.125.1.168:4130
-重庆卫视,rtp://225.1.8.148:8296
-重庆卫视,rtp://239.37.0.062:5540
-重庆卫视,rtp://239.253.142.130:3000
-重庆卫视,rtp://239.5.0.60:5000
-东方卫视,rtp://239.45.3.146:5140
-东方卫视,rtp://239.200.200.48:8260
-东方卫视,rtp://239.29.0.97:5000
-东方卫视,rtp://239.125.1.116:4130
-东方卫视,rtp://225.1.8.147:8192
-东方卫视,rtp://239.37.0.048:5540
-东方卫视,rtp://239.253.142.122:3000
-东方卫视,rtp://239.5.1.81:5000
-东南卫视,rtp://239.45.1.121:5140
-东南卫视,rtp://239.200.200.50:8268
-东南卫视,rtp://239.29.0.103:5000
-东南卫视,rtp://239.125.1.164:4130
-东南卫视,rtp://225.1.8.149:8112
-东南卫视,rtp://239.37.0.042:5540
-东南卫视,rtp://239.253.142.121:3000
-东南卫视,rtp://239.21.1.113:5002
-甘肃卫视,rtp://239.45.1.234:5140
-甘肃卫视,rtp://239.200.200.63:8320
-甘肃卫视,rtp://239.29.1.124:5000
-甘肃卫视,rtp://239.125.1.151:4130
-甘肃卫视,rtp://225.1.8.162:8188
-甘肃卫视,rtp://239.3.1.49:8188
-甘肃卫视,rtp://239.37.0.034:5540
-甘肃卫视,rtp://239.253.142.179:3000
-广西卫视,rtp://239.45.0.5:5140
-广西卫视,rtp://239.200.200.53:8280
-广西卫视,rtp://239.29.1.57:5001
-广西卫视,rtp://239.125.1.167:4130
-广西卫视,rtp://225.1.8.152:8300
-广西卫视,rtp://239.3.1.39:8300
-广西卫视,rtp://239.37.0.051:5540
-广西卫视,rtp://239.253.142.106:3000
-贵州卫视,rtp://239.45.1.80:5140
-贵州卫视,rtp://239.200.200.45:8248
-贵州卫视,rtp://239.29.0.104:5000
-贵州卫视,rtp://239.125.1.158:4130
-贵州卫视,rtp://225.1.8.144:8120
-贵州卫视,rtp://239.37.0.058:5540
-贵州卫视,rtp://239.253.142.129:3000
-贵州卫视,rtp://239.5.1.85:5000
-海南卫视,rtp://239.45.1.81:5140
-海南卫视,rtp://239.200.200.59:8304
-海南卫视,rtp://239.29.1.126:5000
-海南卫视,rtp://239.125.1.165:4130
-海南卫视,rtp://225.1.8.158:8304
-海南卫视,rtp://239.3.1.45:8304
-海南卫视,rtp://239.37.0.035:5540
-海南卫视,rtp://239.253.142.31:3000
-河北卫视,rtp://239.45.1.44:5140
-河北卫视,rtp://239.200.200.12:8844
-河北卫视,rtp://239.29.0.124:5000
-河北卫视,rtp://239.125.1.169:4130
-河北卫视,rtp://225.1.8.150:8292
-河北卫视,rtp://239.37.0.052:5540
-河北卫视,rtp://239.253.142.126:3000
-河北卫视,rtp://239.5.1.82:5000
-河南卫视,rtp://239.45.0.3:5140
-河南卫视,rtp://239.200.200.41:8232
-河南卫视,rtp://239.29.1.69:5001
-河南卫视,rtp://239.125.1.156:4130
-河南卫视,rtp://225.1.8.140:8128
-河南卫视,rtp://239.3.1.27:8128
-河南卫视,rtp://239.37.0.056:5540
-河南卫视,rtp://239.253.142.127:3000
-吉林卫视,rtp://239.45.0.6:5140
-吉林卫视,rtp://239.200.200.54:8284
-吉林卫视,rtp://239.29.1.125:5000
-吉林卫视,rtp://239.125.2.205:4120
-吉林卫视,rtp://225.1.8.153:8200
-吉林卫视,rtp://239.37.0.101:5540
-吉林卫视,rtp://239.253.142.19:3000
-吉林卫视,rtp://239.5.1.83:5000
-江苏卫视,rtp://239.45.3.177:5140
-江苏卫视,rtp://239.200.200.36:8208
-江苏卫视,rtp://239.29.0.102:5000
-江苏卫视,rtp://239.125.1.172:4130
-江苏卫视,rtp://225.1.8.134:8276
-江苏卫视,rtp://239.37.0.055:5540
-江苏卫视,rtp://239.253.142.163:3000
-江苏卫视,rtp://239.5.1.25:5000
-江西卫视,rtp://239.45.1.122:5140
-江西卫视,rtp://239.200.200.44:8244
-江西卫视,rtp://239.29.0.125:5000
-江西卫视,rtp://239.125.1.174:4130
-江西卫视,rtp://225.1.1.9:8164
-江西卫视,rtp://239.37.0.043:5540
-江西卫视,rtp://239.253.142.128:3000
-江西卫视,rtp://239.5.1.84:5000
-辽宁卫视,rtp://239.45.1.123:5140
-辽宁卫视,rtp://239.200.200.3:8224
-辽宁卫视,rtp://239.29.0.109:5000
-辽宁卫视,rtp://239.125.1.115:4130
-辽宁卫视,rtp://225.1.8.137:8116
-辽宁卫视,rtp://239.37.0.044:5540
-辽宁卫视,rtp://239.253.142.132:3000
-辽宁卫视,rtp://239.5.1.46:5000
-内蒙古卫视,rtp://239.45.1.238:5140
-内蒙古卫视,rtp://239.125.1.59:5000
-内蒙古卫视,rtp://225.1.8.156:8176
-内蒙古卫视,rtp://239.3.1.43:8176
-内蒙古卫视,rtp://239.37.0.036:5540
-内蒙古卫视,rtp://239.253.142.32:3000
-内蒙古卫视,rtp://239.93.0.8:5140
-内蒙古卫视,rtp://225.1.1.32:5002
-宁夏卫视,rtp://239.45.1.213:5140
-宁夏卫视,rtp://239.200.200.60:8308
-宁夏卫视,rtp://239.29.0.80:5000
-宁夏卫视,rtp://239.125.1.157:4130
-宁夏卫视,rtp://225.1.8.159:8124
-宁夏卫视,rtp://239.3.1.46:8124
-宁夏卫视,rtp://239.37.0.066:5540
-宁夏卫视,rtp://239.253.142.63:3000
-青海卫视,rtp://239.45.1.230:5140
-青海卫视,rtp://239.200.200.58:8300
-青海卫视,rtp://239.29.1.87:5001
-青海卫视,rtp://239.125.1.150:4130
-青海卫视,rtp://225.1.8.157:8184
-青海卫视,rtp://239.3.1.44:8184
-青海卫视,rtp://239.37.0.057:5540
-青海卫视,rtp://239.253.142.29:3000
-山东卫视,rtp://239.45.3.238:5140
-山东卫视,rtp://239.200.200.168:8748
-山东卫视,rtp://239.29.0.106:5000
-山东卫视,rtp://239.125.1.149:4130
-山东卫视,rtp://225.1.8.138:8148
-山东卫视,rtp://239.37.0.049:5540
-山东卫视,rtp://239.253.142.167:3000
-山东卫视,rtp://239.5.1.21:5000
-山西卫视,rtp://239.45.1.229:5140
-山西卫视,rtp://239.200.200.56:8292
-山西卫视,rtp://239.29.1.55:5001
-山西卫视,rtp://239.125.1.119:4130
-山西卫视,rtp://225.1.8.155:8172
-山西卫视,rtp://239.3.1.42:8172
-山西卫视,rtp://239.37.0.053:5540
-山西卫视,rtp://239.253.142.50:3000
-陕西卫视,rtp://239.45.1.232:5140
-陕西卫视,rtp://239.200.200.55:8288
-陕西卫视,rtp://239.29.1.86:5001
-陕西卫视,rtp://239.125.1.155:4130
-陕西卫视,rtp://225.1.8.154:8140
-陕西卫视,rtp://239.3.1.41:8140
-陕西卫视,rtp://239.37.0.045:5540
-陕西卫视,rtp://239.253.142.34:3000
-四川卫视,rtp://239.45.1.83:5140
-四川卫视,rtp://239.200.200.43:8240
-四川卫视,rtp://239.29.0.100:5000
-四川卫视,rtp://239.125.1.175:4130
-四川卫视,rtp://225.1.8.142:8288
-四川卫视,rtp://239.3.1.29:8288
-四川卫视,rtp://239.37.0.041:5540
-四川卫视,rtp://239.253.142.123:3000
-深圳卫视,rtp://239.45.3.231:5140
-深圳卫视,rtp://239.200.200.67:8776
-深圳卫视,rtp://239.29.0.105:5000
-深圳卫视,rtp://239.125.1.166:4130
-深圳卫视,rtp://225.1.8.145:9244
-深圳卫视,rtp://239.37.0.047:5540
-深圳卫视,rtp://239.253.142.166:3000
-深圳卫视,rtp://239.5.1.19:5000
-三沙卫视,rtp://239.45.1.82:5140
-三沙卫视,rtp://239.200.201.136:8140
-三沙卫视,rtp://239.29.1.121:5000
-三沙卫视,rtp://239.125.1.180:4130
-三沙卫视,rtp://225.1.8.78:4120
-三沙卫视,rtp://239.3.1.155:4120
-三沙卫视,rtp://239.37.0.201:5540
-三沙卫视,rtp://239.253.142.198:3000
-天津卫视,rtp://239.45.1.124:5140
-天津卫视,rtp://239.200.200.69:1234
-天津卫视,rtp://239.29.0.98:5000
-天津卫视,rtp://239.125.1.153:4130
-天津卫视,rtp://225.1.8.136:8144
-天津卫视,rtp://239.37.0.064:5540
-天津卫视,rtp://239.253.142.169:3000
-天津卫视,rtp://239.5.1.1:5000
-西藏卫视,rtp://239.45.1.231:5140
-西藏卫视,rtp://239.200.200.61:8312
-西藏卫视,rtp://239.29.1.79:5001
-西藏卫视,rtp://239.125.1.117:4130
-西藏卫视,rtp://225.1.8.160:8164
-西藏卫视,rtp://239.3.1.47:8164
-西藏卫视,rtp://239.37.0.054:5540
-西藏卫视,rtp://239.253.142.51:3000
-新疆卫视,rtp://239.45.1.116:5140
-新疆卫视,rtp://239.200.200.62:8316
-新疆卫视,rtp://239.29.1.59:5001
-新疆卫视,rtp://239.125.1.123:4130
-新疆卫视,rtp://225.1.8.161:8160
-新疆卫视,rtp://239.3.1.48:8160
-新疆卫视,rtp://239.37.0.039:5540
-新疆卫视,rtp://239.253.142.35:3000
-云南卫视,rtp://239.45.0.4:5140
-云南卫视,rtp://239.200.200.145:8840
-云南卫视,rtp://239.29.0.76:5000
-云南卫视,rtp://239.125.1.160:4130
-云南卫视,rtp://225.1.8.139:8108
-云南卫视,rtp://239.3.1.26:8108
-云南卫视,rtp://239.37.0.063:5540
-云南卫视,rtp://239.253.142.86:3000
+广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
+浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
+东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
+东南卫视,http://198.204.240.250:82/live/dnws.m3u8
+河北卫视,https://event.pull.hebtv.com:443/live/live101.m3u8
+江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
+深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
+
+📰新闻财经,#genre#
+CBS News 24/7,https://pddl.sharewithyou.dpdns.org/?play=https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw_csid=vcbs_xumo_ctv_allos_live_cbsnews;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+LiveNOW from FOX,https://s11host2.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config13/25a2f26d-fa83-469b-a0c6-0d4508fec2c0/2.m3u8
+NBC News NOW,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
+Newsmax,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
+Reuters,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
+Sky News International,https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master_5.m3u8
+BBC News UK,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+Euronews FR,https://aka-live1050.delivery.roku.com/f5af26d1-822b-43f3-93f4-2301a947e1f3/t2-origin/out/v1/live_1080.m3u8
+DW English DE,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+TRT World TR,https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
+RT RU,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+BBC America,http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+CityNews Toronto CA,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-3MBPS.m3u8
+CNN Originals,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/3836c9f5-9b7c-4254-90fd-4c8bcfca7f8f/3.m3u8
+BBC Antiques Roadshow UK,https://dbbg0ax8bgo7d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rr52e88156vv-prod/4e195c60-6424-49aa-9666-ace19f590582/2.m3u8
+
+🏀体育频道,#genre#
+BBC One UK 01,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
+ACC Network,http://23.237.104.106:8080/USA_ACCN/index.m3u8
+beIN SPORTS,http://23.237.104.106:8080/USA_BEIN/index.m3u8
+CBS Sports Network,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts
+ESPNU,http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+Golf Channel,http://23.237.104.106:8080/USA_GOLF/index.m3u8
+MSG,http://23.237.104.106:8080/USA_MSG/index.m3u8
+NBA TV,http://23.237.104.106:8080/USA_NBA/index.m3u8
+NFL Network,http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+SEC Network,http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+Spectrum SportsNet Los Angeles,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74683.ts
+SportsNet New York,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3865.ts
+TNT Sports 1 UK,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/343.ts
+ESPN NL,http://86.87.15.10:8003/play/a01w/index.m3u8
+ESPN 3 NL,http://86.87.15.10:8001/play/a01k/index.m3u8
+Billiard TV,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8076993c-bbf4-4dbc-a77a-9b70047f90e0/4.m3u8
+ESPN8: The Ocho,https://d3b6q2ou5kp8ke.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/aab88f58-adb6-4466-aceb-3b71a6f23411/4.m3u8
+FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/88fc28a8-62ec-492a-9f34-8b52fd57f5d1/2.m3u8
+NBC Sports NOW,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8
+PFL,https://aka-live1050.delivery.roku.com/120da388-708f-4b8f-b4f4-8d564c348eb1/t2-origin/out/v1/live_1080.m3u8
+Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+Red Bull TV Motorsport,https://d39yjeivnywvts.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/edaaeec2-d7b8-4a80-aa03-601309764d5a/0.m3u8
+Strongman Champions League,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ad15bc3b-8829-47e5-8a6d-258b501ca01c/5.m3u8
+UFC,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
+Women's Sports Network,https://d39accvx65hq9o.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ngwzz9m41tnrd/ea1fdc6f-3d1d-481b-9a7d-b9944f86e3f1/3.m3u8
+World Fishing Network,https://d3b3ldcvgsu291.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/e58ff6a8-d844-479f-8aef-e4baf46bbff6/0.m3u8
+WWE Superstar Central,https://dpv6ceilvhyrw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ufe851j0vqbg/cb057fb1-5af8-4aca-9641-86ed99826bac/3.m3u8
+TSN The Ocho CA,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/77d9db0d-3fde-4e0c-a2fd-150fc780c9b7/3.m3u8
+
+🎬影视剧场,#genre#
+AMC Thrillers,https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8
+BET x Tyler Perry Comedy,https://d3vmpkkd3o2grv.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0l5146z4a61ea/d781f4e4-9c34-4042-977e-42e40289ad73/0.m3u8
+CW Forever,https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
+CW Gold,https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8
+FilmRise British TV,https://aka-live1050.delivery.roku.com/d83b2941-9473-4d27-adb0-aec056e72ef8/t2-origin/out/v1/live_720.m3u8
+FilmRise Classic TV,https://aka-live1050.delivery.roku.com/9f8d19b2-1dfc-432a-bc3e-e1dacf2f0e4e/t2-origin/out/v1/live_720.m3u8
+FilmRise Free Movies,https://aka-live1050.delivery.roku.com/1c6ad6fa-bf05-4887-9469-74eb48c81627/t2-origin/out/v1/live_720.m3u8
+FilmRise Horror,https://aka-live1050.delivery.roku.com/148be9ff-1ae2-439c-a3f0-fd55dfa506ab/t2-origin/out/v1/live_720.m3u8
+FilmRise Western,https://aka-live1050.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live_720.m3u8
+MGM Present,https://ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1071-MGMPRESENTS-TCLTV/7035defd-1fc3-49cd-9dd6-8f646549cc42/0.m3u8
+MGM Present Horror,https://99f62fea411048679ce5e233e88f2b95.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1217-MGMPRESENTSHORROR-TCLTV/55852247-e42e-4f5f-81b9-54a3f0a893bf/0.m3u8
+NBC Comedy Vault,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a90cc32f-3289-4647-8b23-a28125cfa538/4.m3u8
+OuterSphere by Lionsgate,https://d3o593mz1glx8d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/00b50ee1-5798-469a-b438-53e6c394eccc/3.m3u8
+Stories by AMC,https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/6f61dc83-1db6-47ca-91fa-c7a26dc238fb/5.m3u8
+Universal Movies,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8
+Universal Action,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/14c3da40-a4a0-4788-bd7d-210fbed221dd/4.m3u8
+Universal Crime,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/8c099bf8-0c15-481f-a109-1a3162361da8/4.m3u8
+Universal Western,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8
+BritBox Mysteries UK,https://1d7f286dfb844497ac68dd9d6eeb6ea6.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-796-BRITBOXMYSTERIES-LG_US/a623a951-0765-40f6-83dd-307e7c64a4f5/0.m3u8
+Sony One Action HITS UK,https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/af2459de-b2ca-47eb-8435-5e6998ec22dc/0.m3u8
+Sony One Comedy HITS UK,https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/cc1d2891-3e9b-4e4c-a518-383d37092998/0.m3u8
+Sony One Comedy TV UK,https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/09055582-32bf-4ef3-a52d-c2396416feb2/0.m3u8
+Sony One Thriller TV UK,https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/02d6917b-e5da-46e2-82d5-c3b3103bfd0e/0.m3u8
+
+🧒少儿动漫,#genre#
+Cartoon Network,http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+Sensical Gaming,https://aka-live1050.delivery.roku.com/314957f6-8e52-4bf6-aba2-27193c314772/t2-origin/out/v1/live_1080.m3u8
+The LEGO Channel,https://dh18i7whff86v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/fc2273de-2ae1-4ed2-905d-739cf431eb30/0.m3u8
+
+📚纪录科教,#genre#
+Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
+National Geographic,http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+FilmRise Forensic Files,https://aka-live1050.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live_720.m3u8
+FilmRise Mysteries,https://aka-live1050.delivery.roku.com/6958d32d-d93b-4cbd-81ca-aab20001570b/t2-origin/out/v1/live_720.m3u8
+FilmRise True Crime,https://aka-live1050.delivery.roku.com/22b66942-f85a-4a33-9440-61fea2cac667/t2-origin/out/v1/live_720.m3u8
+MagellanTV Wildest,https://s8host3.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config10/fdc864bc-5776-4756-90d6-b0902043c249/0.m3u8
+Nature Moments,https://aka-live1050.delivery.roku.com/d219883b-5654-402f-9391-33e9144cad39/t2-origin/out/v1/live_1080.m3u8
+REELZ Famous & Infamous,https://pb-pskpwdav4v1e3.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-pskpwdav4v1e3/285d2802-77e5-459a-950e-c055bd2ace07/0.m3u8
+The Judge Judy Channel,https://pddl.sharewithyou.dpdns.org/?play=https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FbRE69gQJQm2_cW4qnf6okg%2Fmaster.m3u8&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080&ip_addr=185.217.168.164
+CTV Gridlock CA,https://dhjd4u7ds8bgi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ses39ewew36zq/edd17cd1-3ddc-42bd-9941-e780391c4ff5/3.m3u8
+
+🌍欧美频道,#genre#
+AMC,http://23.239.31.26:8989/amc/index.m3u8
+Animal Planet,http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+AXS TV,http://23.239.31.26:8989/axstv/index.m3u8
+Boomerang,http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+BounceTV,http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+CMT,http://23.237.104.106:8080/USA_CMT/index.m3u8
+Comedy Central,http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+Comet,https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
+Cooking Channel,http://23.237.104.106:8080/USA_COOKING/index.m3u8
+E!,http://23.237.104.106:8080/USA_E/index.m3u8
+Food Network,http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+ION Television,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a5e7ebd8-80a4-49ed-8337-3f63f84673cc/1.m3u8
+MTV Live,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+Paramount Network,http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+WE tv,http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+RMC Découverte FR,https://d1dagx0hs2fkxs.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2p2o2x977e2oh/1684a6c6-7cce-480a-88c0-aff91aab84f5/0.m3u8
+RMC Story FR,https://d171yrj5ba7twq.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-c5al169c4n0ck/63cd71b0-38bc-4416-8e96-4384ea5bac34/0.m3u8
+PBS Food,https://aka-live1050.delivery.roku.com/96414c68-02f2-4e5c-8e5d-355025ccf724/t2-origin/out/v1/live_1080.m3u8
+CTV @ Home CA,https://d1ieuq3tbxyiyt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zv27yfxabsqcr/d20c04d4-1577-446c-b551-5bb288121a09/3.m3u8
+CTV Gets Real CA,https://dyibab6iv1p6i.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4j7c245x3pz3r/04f2cd9d-c459-4f57-a79f-473d1b3ca65a/3.m3u8
+CTV Laughs CA,https://dvsxtm7eutazd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8bf178m7nvq93/b1bc7153-ba35-44a8-8706-a64867f31214/3.m3u8
+Stingray DJAZZ,https://d1or3dijypy7w9.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fnc447z72mkdf/220c440a-5b8b-4760-b6fd-57ac5c97bcc8/3.m3u8
+Vevo '70s,https://aka-live1050.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-origin/out/v1/live_1080.m3u8
+Vevo '80s,https://aka-live1050.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b0128c/t2-origin/out/v1/live_1080.m3u8
+Vevo '90s,https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live_1080.m3u8
+Vevo 2K,https://aka-live1050.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live_1080.m3u8
+Vevo Country,https://aka-live1050.delivery.roku.com/c852fbec-cd06-4040-904b-9a9481647a94/t2-origin/out/v1/live_1080.m3u8
+Vevo Hip-Hop,https://aka-live1050.delivery.roku.com/04bfc270-3919-495e-a61d-39814ab58131/t2-origin/out/v1/live_1080.m3u8
+Vevo Latino,https://aka-live1050.delivery.roku.com/473ec9f9-6dad-4a92-86e9-215c5fa50602/t2-origin/out/v1/live_1080.m3u8
+Vevo Pop,https://aka-live1050.delivery.roku.com/2436b19a-5fb6-4245-99f9-ba3dc33af3c0/t2-origin/out/v1/live_1080.m3u8
+Vevo R&B,https://aka-live1050.delivery.roku.com/395d8b66-d246-4bf2-87b6-89a5dc1084ed/t2-origin/out/v1/live_1080.m3u8
+Vevo Rock,https://d2hdqrshyzxswl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/d3e90c9b-f738-4126-9e26-b4cdb23652b6/3.m3u8
+XITE 80s Flashback,https://d1n314cytqn9r3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/546a529d-394a-4513-bb13-af14dbfbefaf/3.m3u8
+XITE 90s Throwback,https://d284aawtm5vi48.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/4aa6988f-4506-421c-8687-42c4b2105ad0/3.m3u8
+XITE Hits,https://d726x48n2pd5h.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/c70b5479-c97b-407b-9caf-4dc3877797bb/3.m3u8
+XITE Just Chill,https://dvnftgdlbnemm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/00fbab90-74cb-4f1f-9dc7-3c6729bc05b6/3.m3u8
+XITE Nuevo Latino,https://d3bsgqzbpkrvbb.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/075ea560-48b3-46ee-a540-4652a11b6496/3.m3u8
+XITE Rock x Metal,https://d198ro05q94rc4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/cb1e7724-889a-4222-bd51-521d7138d981/3.m3u8
+XITE Spring Vibes,https://dt1s4l2cmiyit.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/530416f1-5263-4b76-b173-89ec9966d010/3.m3u8
+Deluxe Dance By Kontor DE,https://d37i8mvsaxucfl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0785d94zsjwwd/5ad2bbc2-9a48-4959-8c7a-e94242429fa0/3.m3u8
+Deluxe RAP DE,https://db7hpmv1jrjri.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m380ud5ckv9kb/b0ddd142-6bee-4a68-a804-7c42acd2fbe6/3.m3u8
+
+🏙️地方频道,#genre#
+通化新闻综合,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+
+🌍国际频道,#genre#
+TV BRICS Chinese,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+Chifeng News,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+BBC News,http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
+France 24 English,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+CNBC,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1346
