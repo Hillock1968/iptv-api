@@ -635,7 +635,7 @@ http://114.241.253.135:4022/经典电影[高清]?cors
 #EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/热播剧场.png" group-title="华数频道",热播剧场
 http://114.241.253.135:4022/热播剧场[高清]?cors
 
-#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://epg.112114.xyz/logo/华数军旅剧场.png" group-title="华数频道",华数军旅剧场
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://epg.112114.xyz/logo/华数军旅剧场.png" group-title="华数频道",军旅剧场
 http://114.241.253.135:4022/军旅剧场[高清]?cors
 
 #EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/城市剧场.png" group-title="华数频道",城市剧场
@@ -650,7 +650,7 @@ http://114.254.72.97:4022/rtp/239.3.1.90:4120
 #EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力时尚.png" group-title="华数频道",魅力时尚
 http://114.241.253.135:4022/魅力时尚[高清]?cors
 
-#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/古装剧场.png" group-title="华数频道",华数古装剧场
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/古装剧场.png" group-title="华数频道",古装剧场
 http://114.241.253.135:4022/古装剧场[高清]?cors
 
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="华数频道",少儿动画
