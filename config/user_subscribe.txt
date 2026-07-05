@@ -1,15 +1,13 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 #
-https://g.blfrp.cn/https://raw.githubusercontent.com/Hillock1968/tjtv/refs/heads/main/unicom.m3u
-
-https://d.kstore.dev/download/11344/yunduan.txt
+http://west.shaonv.me/tvbox/live.txt
 
 https://wget.la/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
 http://1.94.31.214/live/live9/dgtv.txt
 
-http://west.shaonv.me/tvbox/live.txt
+
 
 https://wget.la/https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt
 
@@ -29,12 +27,12 @@ https://wget.la/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
 
 https://wget.la/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 
-http://210.245.166.84:1299/live/live.txt">http://210.245.166.84:1299/live/live.txt
+http://210.245.166.84:1299/live/live.txt
+http://210.245.166.84:1299/live/live.txt
 
 https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u
 
 https://wget.la/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-
 
 ###
 
